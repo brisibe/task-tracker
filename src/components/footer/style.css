@@ -1,0 +1,15 @@
+footer {
+  width: 100%;
+  display: grid;
+  place-items: center;
+  height: 90px;
+  font-size: 14px;
+  background-color: var(--bg-color);
+  margin-top: 200px;
+}
+b {
+  color: var(--blue);
+}
+.surname {
+  color: var(--purple);
+}
