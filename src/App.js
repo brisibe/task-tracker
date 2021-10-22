@@ -46,6 +46,7 @@ function App() {
             <input
               type="text"
               id="task"
+              autoComplete="off"
               placeholder="Do the dishes..."
               onChange={formik.handleChange}
               value={formik.values.task}
